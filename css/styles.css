@@ -1,0 +1,33 @@
+#grid-container {
+    display: grid;
+    border: 1px solid;
+    height: 50%;
+    width: 25%;
+    margin: auto;
+    background-color: lightgray;
+}
+
+#War h3 {
+    text-align: center;
+    color: red;
+    font-size: 300%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#next {
+    visibility: hidden;
+}
+
+#pHand{
+    font-size: 200%;
+}
+
+#cHand{
+    font-size: 200%;
+
+}
+
+.hand {
+    color: black;
+}
